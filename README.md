@@ -112,5 +112,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 For any queries or collaborations, feel free to reach out:
 - **Name:** Bipin Waghmare
 - **GitHub:** [github.com/bipinwaghmare](https://github.com/bipinwaghmare)
-- **LinkedIn:** [linkedin.com/in/bipinwaghmare](www.linkedin.com/in/bipin-waghmare-2bb623167)
+- **LinkedIn:** [linkedin.com/in/bipinwaghmare](https://www.linkedin.com/in/bipin-waghmare-2bb623167)
 
